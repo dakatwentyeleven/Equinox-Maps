@@ -12,9 +12,9 @@
 		<time>10:00</time>
 		<radius>10</radius>
 		<spawnprotect>true</spawnprotect>
-		<objective>Team death match! Kill all the other team as many times as possible!</objective>
 	</info>
 	
+<<<<<<< HEAD
 	<authors>
 		<author>Tywins</author>
 	</authors>
@@ -23,6 +23,8 @@
 		<potion>DAMAGE_RESISTANCE,5,3</potion>
 	</potions>
 	
+=======
+>>>>>>> parent of cfea1d4... WKP Updates
 	<team id="1">
 		<name>Red Team</name>
 		<colour>Red</colour>

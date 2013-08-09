@@ -7,11 +7,19 @@
 		<type>ctf</type>
 		<world>Obirah</world>
 		<spec>-28.5,42.0,-842.5,-90,0</spec>
-		<creator>Haribo98</creator>
 		<radius>10</radius>
 		<build>true</build>
 		<spawnprotect>true</spawnprotect>
+		<objective>Retrieve the 3 wools from the enemies side and place them in your spawn.</objective>
 	</info>
+	
+	<authors>
+		<author>Haribo98</author>
+	</authors>
+	
+	<potions>
+		<potion>DAMAGE_RESISTANCE,20,3</potion>
+	</potions>
 	
 	<team>
 		<name>Blue Team</name>

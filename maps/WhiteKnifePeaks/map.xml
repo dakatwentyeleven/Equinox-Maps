@@ -12,7 +12,16 @@
 		<time>10:00</time>
 		<radius>10</radius>
 		<spawnprotect>true</spawnprotect>
+		<objective>Team death match! Kill all the other team as many times as possible!</objective>
 	</info>
+	
+	<authors>
+		<author>Tywins</author>
+	</authors>
+	
+	<potions>
+		<potion>DAMAGE_RESISTANCE,20,3</potion>
+	</potions>
 	
 	<team id="1">
 		<name>Red Team</name>

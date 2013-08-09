@@ -14,7 +14,7 @@
 	</info>
 	
 	<potions>
-		<potion>DAMAGE_RESISTANCE,5,3</potion>
+		<potion>DAMAGE_RESISTANCE,20,3</potion>
 	</potions>
 	
 	<authors>

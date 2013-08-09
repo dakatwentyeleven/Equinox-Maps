@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
 	<info>
-		<title>Obsidian Chalice</title>
-		<version>1.0.1</version>
+		<title>Obsidian Chalice DTC</title>
+		<version>1.1.2</version>
 		<type>dtc</type>
 		<world>ObsidianChaliceDTC</world>
 		<creator>Tywnis</creator>
@@ -10,7 +10,7 @@
 		<build>true</build>
 		<radius>1</radius>
 		<spawnprotect>true</spawnprotect>
-		<objective>Break the monuments at the top of the towers on the enemies side!</objective>
+		<objective>Leak the lava from the enemies core!</objective>
 	</info>
 	
 	<authors>
@@ -20,46 +20,28 @@
 	<team id="1">
 		<colour>Blue</colour>
 		<name>Blue Team</name>
-		<spawn>1991.5,15,-1229.5,-90,0</spawn>
-		<radius>3</radius>
+		<spawn>2001,11.5,-1195,-90,0</spawn>
+		<radius>5</radius>
 	</team>
 	
 	<team id="2">
 		<colour>Red</colour>
 		<name>Red Team</name>
-		<spawn>2181.5,15,-1230.5,90,0</spawn>
-		<radius>3</radius>
+		<spawn>2171,10,-1264,90,0</spawn>
+		<radius>5</radius>
 	</team>
-	
-	<monument id="1">
-		<id>a</id>
-		<name>Right</name>
-		<team>Blue</team>
-		<location>2151,18,-1222</location>
-		<radius>0</radius>
-	</monument>
-	
-	<monument id="2">
-		<id>b</id>
-		<name>Left</name>
-		<team>Blue</team>
-		<location>2151,18,-1237</location>
-		<radius>0</radius>
-	</monument>
-	
-	<monument id="3">
-		<id>c</id>
-		<name>Right</name>
-		<team>Red</team>
-		<location>2021,18,-1237</location>
-		<radius>0</radius>
-	</monument>
-	
-	<monument id="4">
-		<id>d</id>
-		<name>Left</name>
-		<team>Red</team>
-		<location>2021,18,-1222</location>
-		<radius>0</radius>
-	</monument>
+   <core>
+      <team>Blue</team>
+      <id>a</id>
+      <name>Core</name>
+      <min>2179,16,-1232</min>
+      <max>2184,23,-1227</max>
+   </core>
+   <core>
+      <team>Red</team>
+      <id>b</id>
+      <name>Core</name>
+      <min>1993,16,-1227</min>
+      <max>1988,23,-1232</max>
+   </core>
 </map>

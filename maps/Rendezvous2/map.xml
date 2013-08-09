@@ -12,9 +12,7 @@
 		<build>true</build>
 		<spawnprotect>true</spawnprotect>
 	</info>
-	<potions>
-		<potion>DAMAGE_RESISTANCE,20,3</potion>
-	</potions>
+
 	<authors>
 		<author>Haribo98</author>
 	</authors>

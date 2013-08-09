@@ -17,9 +17,7 @@
 		<author>Haribo98</author>
 	</authors>
 	
-	<potions>
-		<potion>DAMAGE_RESISTANCE,20,3</potion>
-	</potions>
+
 	
 	<team>
 		<name>Blue Team</name>

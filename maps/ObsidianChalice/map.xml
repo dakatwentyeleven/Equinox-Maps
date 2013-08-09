@@ -13,10 +13,6 @@
 		<objective>Break the monuments at the top of the towers on the enemies side!</objective>
 	</info>
 	
-	<potions>
-		<potion>DAMAGE_RESISTANCE,20,3</potion>
-	</potions>
-	
 	<authors>
 		<author>Tywnis</author>
 	</authors>

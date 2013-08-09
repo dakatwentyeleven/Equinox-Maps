@@ -3,8 +3,8 @@
 	<info>
 		<title>Obsidian Chalice</title>
 		<version>1.0.1</version>
-		<type>ctm</type>
-		<world>ObsidianChalice</world>
+		<type>dtc</type>
+		<world>ObsidianChaliceDTC</world>
 		<creator>Tywnis</creator>
 		<spec>2081.5,74,-1326.5,0,0</spec>
 		<build>true</build>
@@ -12,10 +12,6 @@
 		<spawnprotect>true</spawnprotect>
 		<objective>Break the monuments at the top of the towers on the enemies side!</objective>
 	</info>
-	
-	<potions>
-		<potion>DAMAGE_RESISTANCE,5,3</potion>
-	</potions>
 	
 	<authors>
 		<author>Tywnis</author>

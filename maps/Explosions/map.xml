@@ -31,7 +31,8 @@
 		<id>a</id>
 		<name>Left</name>
 		<team>Blue</team>
-		<location>30,29,53</location>
+		<min>30,29,53</min>
+		<max>30,29,53</max>
 		<radius>0</radius>
 	</monument>
 	
@@ -39,21 +40,24 @@
 		<id>b</id>
 		<name>Right</name>
 		<team>Blue</team>
-		<location>-31,29,52</location>
+		<min>-31,29,52</min>
+		<max>-31,29,52</max>
 		<radius>0</radius>
 	</monument>
 	<monument id="3">
 		<id>c</id>
 		<name>Left</name>
 		<team>Red</team>
-		<location>-30,29,-53</location>
+		<min>-30,29,-53</min>
+		<max>-30,29,-53</max>
 		<radius>0</radius>
 	</monument>
 	<monument id="4">
 		<id>d</id>
 		<name>Right</name>
 		<team>Red</team>
-		<location>31,29,-52</location>
+		<min>31,29,-52</min>
+		<max>31,29,-52</max>
 		<radius>0</radius>
 	</monument>
 	<playable>

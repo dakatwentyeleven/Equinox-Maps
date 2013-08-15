@@ -3,7 +3,7 @@
 	<info>
 		<title>Black Marsh</title>
 		<version>1.0</version>
-		<type>ctm</type>
+		<type>dtm</type>
 		<world>BlackMarsh</world>
 		<creator>Tywnis</creator>
 		<spec>1905.5,86,489.5,180,0</spec>

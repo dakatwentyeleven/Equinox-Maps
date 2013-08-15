@@ -4,7 +4,7 @@
 		<title>Obirah</title>
 		<version>1.0</version>
 		<teams>2</teams>
-		<type>ctf</type>
+		<type>ctw</type>
 		<world>Obirah</world>
 		<spec>-28.5,42.0,-842.5,-90,0</spec>
 		<radius>10</radius>

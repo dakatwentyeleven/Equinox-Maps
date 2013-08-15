@@ -3,7 +3,7 @@
 	<info>
 		<title>Senex 2</title>
 		<version>1.0</version>
-		<type>ctm</type>
+		<type>dtm</type>
 		<world>Senex2</world>
 		<creator>Haribo98 and Phoenix1123</creator>
 		<spec>147.5,46,-848.5,-0,0</spec>
@@ -38,7 +38,8 @@
 		<id>a</id>
 		<name>Left</name>
 		<team>Gray</team>
-		<location>256,27,-808</location>
+		<min>256,27,-808</min>
+		<max>256,27,-808</max>
 		<radius>1</radius>
 	</monument>
 	<!-- From behind orange, left monument (below) -->
@@ -46,7 +47,8 @@
 		<id>b</id>
 		<name>Right</name>
 		<team>Gray</team>
-		<location>256,27,-770</location>
+		<max>256,27,-770</max>
+		<min>256,27,-770</min>
 		<radius>1</radius>
 	</monument>
 	 <!-- From behind gray, left monument (below) -->
@@ -54,7 +56,8 @@
 		<id>c</id>
 		<name>Left</name>
 		<team>Orange</team>
-		<location>38,27,-807.5</location>
+		<max>38,27,-807.5</max>
+		<min>38,27,-807.5</min>
 		<radius>1</radius>
 	</monument>
 	 <!-- From behind gray, right monument (below) -->
@@ -62,7 +65,8 @@
 		<id>d</id>
 		<name>Right</name>
 		<team>Orange</team>
-		<location>38,27,-769.5</location>
+		<max>38,27,-769.5</max>
+		<min>38,27,-769.5</min>
 		<radius>1</radius>
 	</monument>
 	<playable>

@@ -4,7 +4,7 @@
 		<title>Explosions</title>
 		<version>1.0</version>
 		<teams>2</teams>
-		<type>ctm</type>
+		<type>dtm</type>
 		<world>Explosions</world>
 		<spec>57,30.5,0,90,0</spec>
 		<build>true</build>

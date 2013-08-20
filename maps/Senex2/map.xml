@@ -38,8 +38,8 @@
 		<id>a</id>
 		<name>Left</name>
 		<team>Gray</team>
-		<min>256,27,-808</min>
-		<max>256,27,-808</max>
+		<min>256,27,-807</min>
+		<max>256,27,-807</max>
 		<radius>1</radius>
 	</monument>
 	<!-- From behind orange, left monument (below) -->
@@ -47,8 +47,8 @@
 		<id>b</id>
 		<name>Right</name>
 		<team>Gray</team>
-		<max>256,27,-770</max>
-		<min>256,27,-770</min>
+		<max>256,27,-769</max>
+		<min>256,27,-769</min>
 		<radius>1</radius>
 	</monument>
 	 <!-- From behind gray, left monument (below) -->
@@ -56,8 +56,8 @@
 		<id>c</id>
 		<name>Left</name>
 		<team>Orange</team>
-		<max>38,27,-807.5</max>
-		<min>38,27,-807.5</min>
+		<max>38,27,-807</max>
+		<min>38,27,-807</min>
 		<radius>1</radius>
 	</monument>
 	 <!-- From behind gray, right monument (below) -->
@@ -65,8 +65,8 @@
 		<id>d</id>
 		<name>Right</name>
 		<team>Orange</team>
-		<max>38,27,-769.5</max>
-		<min>38,27,-769.5</min>
+		<max>38,27,-769</max>
+		<min>38,27,-769</min>
 		<radius>1</radius>
 	</monument>
 	<playable>

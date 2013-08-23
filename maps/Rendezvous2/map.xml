@@ -40,7 +40,7 @@
 	<entry>
 		<team>Red</team>
 		<location>26,46,-601</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -49,7 +49,7 @@
 	<entry>
 		<team>Red</team>
 		<location>23,56,-890</location>
-		<radius>7</radius>        
+		<radius>9</radius>        
 		<allow>true</allow>
 		<damage>false</damage>
 		<message>§cYou are not permitted to enter this area!</message>
@@ -65,7 +65,7 @@
 	<entry>
 		<team>Red</team>
 		<location>80,46,-658</location>
-		<radius>7</radius>       
+		<radius>9</radius>       
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -82,7 +82,7 @@
 	<entry>
 		<team>Red</team>
 		<location>-34,46,-658</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -91,7 +91,7 @@
 	<entry>
 		<team>Red</team>
 		<location>21,56,-888</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<allow>true</allow>
 		<damage>false</damage>
 		<message>§cYou are not permitted to enter this area!</message>
@@ -108,7 +108,7 @@
 	<entry>
 		<team>Blue</team>
 		<location>23,46,-945</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -117,7 +117,7 @@
 	<entry>
 		<team>Blue</team>
 		<location>23,56,-656</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<allow>true</allow>
 		<damage>false</damage>
 		<message>§cYou are not permitted to enter this area!</message>
@@ -133,7 +133,7 @@
 	<entry>
 		<team>Blue</team>
 		<location>-34,46,-888</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -142,7 +142,7 @@
 	<entry>
 		<team>Blue</team>
 		<location>21,56,-658</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<allow>true</allow>
 		<damage>false</damage>
 		<message>§cYou are not permitted to enter this area!</message>
@@ -158,7 +158,7 @@
 	<entry>
 		<team>Blue</team>
 		<location>80,46,-888</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -167,7 +167,7 @@
 	<entry>
 		<team>Blue</team>
 		<location>25,56,-658</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<allow>true</allow>
 		<damage>false</damage>
 		<message>§cYou are not permitted to enter this area!</message>

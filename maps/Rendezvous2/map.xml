@@ -35,12 +35,12 @@
 		<colour>Yellow</colour>
 		<chest>23,45,-598</chest>
 		<place>23,56,-890</place>
-		<radius>7</radius>
+		<radius>9</radius>
 	</flag>
 	<entry>
 		<team>Red</team>
 		<location>26,46,-601</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -49,7 +49,7 @@
 	<entry>
 		<team>Red</team>
 		<location>23,56,-890</location>
-		<radius>7</radius>        
+		<radius>9</radius>        
 		<allow>true</allow>
 		<damage>false</damage>
 		<message>§cYou are not permitted to enter this area!</message>
@@ -60,12 +60,12 @@
 		<colour>Purple</colour>
 		<chest>83,45,-658</chest>
 		<place>25,56,-888</place>
-		<radius>7</radius>
+		<radius>9</radius>
 	</flag>
 	<entry>
 		<team>Red</team>
 		<location>80,46,-658</location>
-		<radius>7</radius>       
+		<radius>9</radius>       
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -77,12 +77,12 @@
 		<colour>Pink</colour>
 		<chest>-37,45,-658</chest>
 		<place>21,56,-888</place>
-		<radius>7</radius>    
+		<radius>9</radius>    
 	</flag>
 	<entry>
 		<team>Red</team>
 		<location>-34,46,-658</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -91,7 +91,7 @@
 	<entry>
 		<team>Red</team>
 		<location>21,56,-888</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<allow>true</allow>
 		<damage>false</damage>
 		<message>§cYou are not permitted to enter this area!</message>
@@ -103,12 +103,12 @@
 		<colour>LightBlue</colour>
 		<chest>23,45,-948</chest>
 		<place>23,56,-656</place>
-		<radius>7</radius>
+		<radius>9</radius>
 	</flag>
 	<entry>
 		<team>Blue</team>
 		<location>23,46,-945</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -117,7 +117,7 @@
 	<entry>
 		<team>Blue</team>
 		<location>23,56,-656</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<allow>true</allow>
 		<damage>false</damage>
 		<message>§cYou are not permitted to enter this area!</message>
@@ -128,12 +128,12 @@
 		<colour>Cyan</colour>
 		<chest>-37,45,-888</chest>
 		<place>21,56,-658</place>
-		<radius>7</radius>
+		<radius>9</radius>
 	</flag>
 	<entry>
 		<team>Blue</team>
 		<location>-34,46,-888</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -142,7 +142,7 @@
 	<entry>
 		<team>Blue</team>
 		<location>21,56,-658</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<allow>true</allow>
 		<damage>false</damage>
 		<message>§cYou are not permitted to enter this area!</message>
@@ -153,12 +153,12 @@
 		<colour>Orange</colour>
 		<chest>83,45,-888</chest>
 		<place>25,56,-658</place>
-		<radius>7</radius>
+		<radius>9</radius>
 	</flag>
 	<entry>
 		<team>Blue</team>
 		<location>80,46,-888</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
 		<damage>false</damage>
@@ -167,7 +167,7 @@
 	<entry>
 		<team>Blue</team>
 		<location>25,56,-658</location>
-		<radius>7</radius>
+		<radius>9</radius>
 		<allow>true</allow>
 		<damage>false</damage>
 		<message>§cYou are not permitted to enter this area!</message>

@@ -12,13 +12,9 @@
 		<spawnprotect>true</spawnprotect>
 		<objective>Retrieve the 3 wools from the enemies side and place them in your spawn.</objective>
 	</info>
-	
 	<authors>
 		<author>Haribo98</author>
 	</authors>
-	
-
-	
 	<team>
 		<name>Blue Team</name>
 		<colour>Blue</colour>
@@ -32,9 +28,7 @@
 		<spawn>41.5,17.0,-888.5,0,0</spawn>
 		<radius>3</radius>
 	</team>
-	
 	<!-- Red Team Flags! -->
-	
 	<flag>
 		<name>Yellow</name>
 		<team>Red</team>
@@ -43,7 +37,6 @@
 		<place>40,18,-878</place>
 		<radius>6</radius>
 	</flag>
-	
 	<entry>
 		<team>Blue</team>
 		<location>41,16,-747</location>
@@ -258,7 +251,7 @@
  		<damage>false</damage>
  		<place>false</place>
  		<break>true</break>
- 		<entry>true</entry
+ 		<entry>true</entry>
  	</region>
  	<!-- Orange Room -->
  	<region>

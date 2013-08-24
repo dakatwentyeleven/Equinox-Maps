@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Cobweb Hills</title>
+		<version>1.1</version>
+		<teams>2</teams>
+		<type>hardcore</type>
+		<world>CobwebHills</world>
+		<spec>-69,80,-59,0,0</spec>
+		<build>true</build>
+		<radius>10</radius>
+		<spawnprotect>true</spawnprotect>
+		<objective>Eliminate all enemy players!</objective>
+	</info>
+	<authors>
+		<author>TheMasterCow</author>
+	</authors>
+	<team id="1">
+		<name>Red Team</name>
+		<colour>Red</colour>
+		<spawn>-3,68,-10,90,0</spawn>
+		<radius>5</radius>
+	</team>
+	<team id="2">
+		<name>Blue Team</name>
+		<colour>Blue</colour>
+		<spawn>-136,68,-10,-90,0</spawn>
+		<radius>10</radius>
+	</team>
+</map>

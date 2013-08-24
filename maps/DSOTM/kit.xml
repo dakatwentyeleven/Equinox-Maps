@@ -1,0 +1,87 @@
+<kit>
+    <info>
+	    <name>spawn</name>
+		<donator>false</donator>
+	</info>
+	<item id="1">
+		<slot>helmet</slot>
+		<id>298</id>
+		<amount>1</amount>
+		<name>Leather Cap</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="2">
+		<slot>chestplate</slot>
+		<id>299</id>
+		<amount>1</amount>
+		<name>Leather Tunic</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="3">
+		<slot>pants</slot>
+		<id>300</id>
+		<amount>1</amount>
+		<name>Leather Pants</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="4">
+		<slot>boots</slot>
+		<id>301</id>
+		<amount>1</amount>
+		<name>Leather Boots</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="5">
+		<slot>0</slot>
+		<id>275</id>
+		<amount>1</amount>
+		<name>Lightsaber</name>
+		<enchant>34;3,19;1</enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="6">
+		<slot>1</slot>
+		<id>261</id>
+		<amount>1</amount>
+		<name>Blaster</name>
+		<enchant>49;1</enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="7">
+		<slot>2</slot>
+		<id>260</id>
+		<amount>1</amount>
+		<name>Apple</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="8">
+		<slot>8</slot>
+		<id>371</id>
+		<amount>5</amount>
+		<name>Gold Nugget</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="9">
+		<slot>27</slot>
+		<id>262</id>
+		<amount>10</amount>
+		<name>Arrow</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+</kit>

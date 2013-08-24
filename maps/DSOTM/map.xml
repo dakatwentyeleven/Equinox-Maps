@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <info>
+	    <title>Dark Side of The Moon</title>
+		<version>1.0.0</version>
+		<teams>2</teams>
+		<type>tdm</type>
+		<world>DSOTM</world>
+		<creator>MlgCheetoPuff</creator>
+		<spec>0.5,35.0,0.5,90,1</spec>
+		<build>false</build>
+		<time>10:00</time>
+		<radius>2</radius>
+		<spawnprotect>true</spawnprotect>
+	</info>
+	<authors>
+	    <author>MlgCheetoPuff</author>
+		<author>miciahthefirst</author>
+	</authors>
+	<team id="1">
+		<name>Pink Team</name>
+		<colour>Pink</colour>
+		<spawn>0.5,7,-95.5,0,0</spawn>
+		<radius>2</radius>
+	</team>
+	<team id="2">
+		<name>Green Team</name>
+		<colour>Green</colour>
+		<spawn>0.5,7.0,94.5,180,2</spawn>
+		<radius>2</radius>
+	</team>
+	<!-- Pink Spawn -->
+	<region>
+		<teams>Green</team>
+		<location1>-3,4,90</location1>
+		<location2>4,30,98</location2>
+		<interact>false</interact>
+		<damage>true</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>false</entry>
+		<message>Do not enter Pink Team's spawn.</message>
+	</region>
+	<region>
+		<teams>Pink</team>
+		<location1>4,4,-91</location1>
+		<location2>-3,30,-99</location2>
+		<interact>false</interact>
+		<damage>true</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>false</entry>
+		<message>Do not enter Green Team's spawn.</message>
+	</region>
+</map>

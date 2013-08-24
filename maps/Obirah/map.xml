@@ -158,9 +158,8 @@
  		<interact>true</interact>
  		<damage>false</damage>
  		<place>false</place>
- 		<break>false</break>
+ 		<break>true</break>
  		<entry>true</entry>
-		<message>Don't break wool rooms.</message>
  	</region>
  	<region>
 		<teams>Blue</teams>
@@ -171,7 +170,7 @@
  		<place>false</place>
  		<break>false</break>
  		<entry>false</entry>
-		<message>Don't break wool rooms.</message>
+		<message>You may not enter your wool rooms!</message>
  	</region>
  	<!-- Cyan Room -->
 	<region>
@@ -181,9 +180,8 @@
  		<interact>true</interact>
  		<damage>false</damage>
  		<place>false</place>
- 		<break>false</break>
+ 		<break>true</break>
  		<entry>true</entry>
-		<message>Don't break wool rooms.</message>
  	</region>
  	<region>
 		<teams>Blue</teams>
@@ -194,7 +192,7 @@
  		<place>false</place>
  		<break>false</break>
  		<entry>false</entry>
-		<message>Don't break wool rooms.</message>
+		<message>You may not enter your wool rooms!.</message>
  	</region>
  	<!-- Yellow Room -->
 	<region>
@@ -204,9 +202,8 @@
  		<interact>true</interact>
  		<damage>false</damage>
  		<place>false</place>
- 		<break>false</break>
+ 		<break>true</break>
  		<entry>true</entry>
-		<message>Don't break wool rooms.</message>
  	</region>
  	<region>
 		<teams>Blue</teams>
@@ -217,7 +214,7 @@
  		<place>false</place>
  		<break>false</break>
  		<entry>false</entry>
-		<message>Don't break wool rooms.</message>
+		<message>You may not enter your wool rooms!</message>
  	</region>
  	<!-- Pink Room -->
 	<region>
@@ -229,7 +226,7 @@
  		<place>false</place>
  		<break>false</break>
  		<entry>false</entry>
-		<message>Don't break wool rooms.</message>
+<message>You may not enter your wool rooms!</message>
  	</region>
  	<region>
 		<teams>Blue</teams>
@@ -238,9 +235,8 @@
  		<interact>true</interact>
  		<damage>false</damage>
  		<place>false</place>
- 		<break>false</break>
+ 		<break>true</break>
  		<entry>true</entry>
-		<message>Don't break wool rooms.</message>
  	</region>
  	<!-- Lime Room -->
  	<region>
@@ -252,7 +248,7 @@
  		<place>false</place>
  		<break>false</break>
  		<entry>false</entry>
-		<message>Don't break wool rooms.</message>
+		<message>You may not enter your wool rooms!</message>
  	</region>
  	<region>
 		<teams>Blue</teams>
@@ -261,9 +257,8 @@
  		<interact>true</interact>
  		<damage>false</damage>
  		<place>false</place>
- 		<break>false</break>
- 		<entry>true</entry>
-		<message>Don't break wool rooms.</message>
+ 		<break>true</break>
+ 		<entry>true</entry
  	</region>
  	<!-- Orange Room -->
  	<region>
@@ -275,7 +270,7 @@
  		<place>false</place>
  		<break>false</break>
  		<entry>false</entry>
-		<message>Don't break wool rooms.</message>
+		<message>You may not enter your wool rooms!</message>
  	</region>
  	<region>
 		<teams>Blue</teams>
@@ -284,8 +279,7 @@
  		<interact>true</interact>
  		<damage>false</damage>
  		<place>false</place>
- 		<break>false</break>
+ 		<break>true</break>
  		<entry>true</entry>
-		<message>Don't break wool rooms.</message>
  	</region>
 </map>

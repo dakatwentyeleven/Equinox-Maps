@@ -27,4 +27,9 @@
 		<spawn>-136,68,-10,-90,0</spawn>
 		<radius>10</radius>
 	</team>
+	<deny>
+		<type>41</type>
+		<type>42</type>
+		<type>49</type>
+	</deny>
 </map>

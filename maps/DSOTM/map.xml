@@ -28,7 +28,6 @@
 		<spawn>0.5,7.0,94.5,180,2</spawn>
 		<radius>2</radius>
 	</team>
-	<!-- Pink Spawn -->
 	<region>
 		<teams>Green</teams>
 		<location1>-3,4,90</location1>

@@ -41,6 +41,50 @@
       <min>254,31,39</min>
       <max>248,26,33</max>
    </core>
+   <region>
+      <teams>Blue</teams>
+      <location1>-16,26,42</location1>
+      <location2>-21,31,36</location2>
+      <interact>true</interact>
+      <damage>true</damage>
+      <place>true</place>
+      <break>false</break>
+      <entry>true</entry>
+      <message>Do not break your own core.</message>
+   </region>
+   <region>
+      <teams>Red</teams>
+      <location1>254,31,39</location1>
+      <location2>248,26,33</location2>
+      <interact>true</interact>
+      <damage>true</damage>
+      <place>true</place>
+      <break>false</break>
+      <entry>true</entry>
+      <message>Do not break your own core.</message>
+   </region>
+   <region>
+      <teams>Red</teams>
+      <location1>-16,26,42</location1>
+      <location2>-21,31,36</location2>
+      <interact>true</interact>
+      <damage>true</damage>
+      <place>true</place>
+      <break>true</break>
+      <entry>true</entry>
+      <message></message>
+   </region>
+   <region>
+      <teams>Blue</teams>
+      <location1>254,31,39</location1>
+      <location2>248,26,33</location2>
+      <interact>true</interact>
+      <damage>true</damage>
+      <place>true</place>
+      <break>true</break>
+      <entry>true</entry>
+      <message></message>
+   </region>
    <playable>
    <min>260,0,57</min>
    <max>-27,150,18</max>

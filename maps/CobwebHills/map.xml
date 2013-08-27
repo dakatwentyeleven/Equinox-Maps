@@ -6,7 +6,7 @@
 		<teams>2</teams>
 		<type>hardcore</type>
 		<world>CobwebHills</world>
-		<spec>-57,34,-877,0,0</spec>
+		<spec>135,37,-799,0,0</spec>
 		<build>true</build>
 		<radius>10</radius>
 		<spawnprotect>true</spawnprotect>
@@ -18,13 +18,13 @@
 	<team id="1">
 		<name>Red Team</name>
 		<colour>Red</colour>
-		<spawn>10,23,-828,90,0</spawn>
+		<spawn>191,25,-749,90,0</spawn>
 		<radius>5</radius>
 	</team>
 	<team id="2">
 		<name>Blue Team</name>
 		<colour>Blue</colour>
-		<spawn>-124,23,-828,-90,0</spawn>
+		<spawn>58,25,-749,-90,0</spawn>
 		<radius>5</radius>
 	</team>
 	<deny>

@@ -60,7 +60,7 @@
 	<item id="7">
 		<slot>2</slot>
 		<id>260</id>
-		<amount>1</amount>
+		<amount>32</amount>
 		<name>Apple</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
@@ -76,12 +76,12 @@
 		<damage></damage>
 	</item>
 	<item id="9">
-		<slot>27</slot>
+		<slot>28</slot>
 		<id>262</id>
-		<amount>10</amount>
+		<amount>64</amount>
 		<name>Arrow</name>
 		<enchant></enchant>
-		<soulbound>true</soulbound>
+		<soulbound>false</soulbound>
 		<damage></damage>
 	</item>
 </kit>

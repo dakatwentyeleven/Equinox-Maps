@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Items</title>
+		<version>1.0</version>
+		<type>hardcore</type>
+		<world>Items</world>
+		<spec>160,111,-812,180,0</spec>
+		<build>true</build>
+		<radius>7</radius>
+		<spawnprotect>true</spawnprotect>
+		<objective>Eliminate all enemies.</objective>
+	</info>
+	<authors>
+		<author>TheMasterCow</author>
+	</authors>
+	<team id="1">
+		<colour>Yellow</colour>
+		<name>Yellow Team</name>
+		<spawn>104,111,-813,-90,0</spawn>
+		<radius>7</radius>
+	</team>
+	<team id="2">
+		<colour>Green</colour>
+		<name>Green Team</name>
+		<spawn>220,111,-813,90,0</spawn>
+		<radius>7</radius>
+	</team>
+	<playable>
+		<min>230,100,-834</min>
+		<max>101,125,-787</max>
+		<message>Don't leave the map!</message>
+	</playable>
+</map>

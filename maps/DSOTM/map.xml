@@ -50,4 +50,10 @@
 		<entry>false</entry>
 		<message>Do not enter Green Team's spawn.</message>
 	</region>
+	<disabledamage>
+		<damage>fall</damage>
+	</disabledamage>
+	<potions>
+		<potion>night_vision,50,1</potion>
+	</potions>
 </map>

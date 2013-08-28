@@ -54,6 +54,8 @@
 		<damage>fall</damage>
 	</disabledamage>
 	<potions>
-		<potion>speed,50,1</potion>
+		<potion>speed,500,1</potion>
+		<potion>jump,500,2</potion>
+		<potion>night_vision,500,0</potion>
 	</potions>
 </map>

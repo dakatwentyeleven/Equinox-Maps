@@ -54,4 +54,7 @@
 	<map>
 		<file>CherrylandCatacombs</file>
 	</map>
+	<map>
+		<file>Items</file>
+	</map>
 </kits>

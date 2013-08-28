@@ -6,7 +6,7 @@
 		<teams>2</teams>
 		<type>hardcore</type>
 		<world>CobwebHills</world>
-		<spec>135,37,-799,0,0</spec>
+		<spec>125,37,-799,0,0</spec>
 		<build>true</build>
 		<radius>10</radius>
 		<spawnprotect>true</spawnprotect>

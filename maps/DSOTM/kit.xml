@@ -79,7 +79,7 @@
 		<slot>28</slot>
 		<id>262</id>
 		<amount>64</amount>
-		<name>Arrow</name>
+		<name>Ammo</name>
 		<enchant></enchant>
 		<soulbound>false</soulbound>
 		<damage></damage>

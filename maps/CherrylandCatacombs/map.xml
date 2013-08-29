@@ -21,14 +21,14 @@
 	</contributors>
 	<team id="1">
 		<colour>Blue</colour>
-		<name>Blue Team</name>
-		<spawn>19,11,-85,0,0</spawn>
+		<name>Blueberry</name>
+		<spawn>19,12,-87,180,0</spawn>
 		<radius>7</radius>
 	</team>
 	<team id="2">
 		<colour>Red</colour>
-		<name>Yellow Team</name>
-		<spawn>19,11,84,180,0</spawn>
+		<name>Cherry</name></name>
+		<spawn>19,12,-80,180,0</spawn>
 		<radius>7</radius>
 	</team>
 	<core>

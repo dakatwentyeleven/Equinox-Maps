@@ -27,7 +27,7 @@
 	</team>
 	<team id="2">
 		<colour>Red</colour>
-		<name>Cherry</name></name>
+		<name>Cherry</name>
 		<spawn>19,12,-80,180,0</spawn>
 		<radius>7</radius>
 	</team>

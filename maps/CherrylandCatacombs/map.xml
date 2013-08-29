@@ -15,6 +15,10 @@
 		<author>TheMasterCow</author>
 		<author>spongebobtime2</author>
 	</authors>
+	
+	<contributors>
+	<contributor>SkaterSam200;WorldEditing and Addition</contributor>
+	</contributors>
 	<team id="1">
 		<colour>Blue</colour>
 		<name>Blue Team</name>
@@ -58,6 +62,6 @@
 	<playable>
 		<min>46,0,-97</min>
 		<max>-8,50,96</max>
-		<message>Don't leave the map!</message>
+		<message>Don't exit the playing field! There are rabid monkeys out there!</message>
 	</playable>
 </map>

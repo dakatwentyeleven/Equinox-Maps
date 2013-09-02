@@ -55,8 +55,8 @@
 		<damage></damage>
 	</item>
 	
-	<item id="5"
-	<slot>5</slot>
+	<item id="5">
+	<slot>4</slot>
 	<id>258</id>
 	<amount>1</amount>
 	<name>Iron Axe</name>

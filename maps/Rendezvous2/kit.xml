@@ -55,6 +55,16 @@
 		<damage></damage>
 	</item>
 	
+	<item id="5"
+	<slot>8</slot>
+	<id>258</id>
+	<amount>1</amount>
+	<name>Iron Axe</name>
+	<enchant></enchant>
+	<soulbound>true</soulbound>
+	<damage></damage>
+	
+	</item>
 	<item id="7">
 		<slot>2</slot>
 		<id>278</id>

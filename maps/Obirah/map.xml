@@ -275,4 +275,28 @@
  		<break>true</break>
  		<entry>true</entry>
  	</region>
+ 	<!-- Red Team Monument -->
+ 	<region>
+ 		<teams>Red</teams>
+ 		<location1>43,19,-878</location1>
+ 		<location2>39,18,-878</location2>
+ 		<interact>true</interact>
+ 		<damage>false</damage>
+ 		<place>true</place>
+ 		<break>false</break>
+ 		<entry>true</entry>
+ 		<message>Do not break your team's wool monument!</message>
+ 	</region>
+ 	<!-- Blue Team Monument -->
+ 	<region>
+ 		<teams>Blue</teams>
+ 		<location1>39,18,-809</location1>
+ 		<location2>43,19,-809</location2>
+ 		<interact>true</interact>
+ 		<damage>false</damage>
+ 		<break>false</break>
+ 		<place>true</place>
+ 		<entry>true</entry>
+ 		<message>Do not break your team's wool monument!</message>
+ 	</region>
 </map>

@@ -204,4 +204,101 @@
 		<entry>true</entry>
 		<message>Don't break your spawn.</message>
 	</region>
+	
+	<!-- Extended Spawn Protection -->
+	<region>
+		<teams>Blue</teams>
+		<location1>-15,69,746</location1>
+		<location2>-15,66,746</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>false</entry>
+		<message>This is a protected area.</message>
+	</region>
+	
+	<region>
+		<teams>Blue</teams>
+		<location1>-15,69,760</location1>
+		<location2>-15,66,760</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false/break>
+		<entry>false</entry>
+		<message>This is a protected area.</message>
+	</region>
+	
+	<region>
+		<teams>Blue</teams>
+		<location1>-37,69,760</location1>
+		<location2>-37,66,760</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>false</entry>
+		<message>This is a protected area.</message>
+	</region>
+	
+	<region>
+		<teams>Blue</teams>
+		<location1>-37,69,746</location1>
+		<location2>-37,66,746</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>false</entry>
+		<message>This is a protected area.</message>
+	</region>
+	
+	<region>
+		<teams>Red</teams>
+		<location1>-15,66,890</location1>
+		<location2>-15,69,890</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>false</entry>
+		<message>This is a protected area.</message>
+	</region>
+	
+	<region>
+		<teams>Red</teams>
+		<location1>-37,69,890</location1>
+		<location2>-37,66,890</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>false</entry>
+		<message>This is a protected area.</message>
+	</region>
+	
+	<region>
+		<teams>Red</teams>
+		<location1>-37,69,904</location1>
+		<location2>-37,66,904</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>false</entry>
+		<message>This is a protected area.</message>
+	</region>
+	
+	<region>
+		<teams>Red</teams>
+		<location1>-15,69,904</location1>
+		<location2>-15,66,904</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>false</entry>
+		<message>This is a protected area.</message>
+	</region>
  </map>

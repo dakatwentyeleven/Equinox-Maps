@@ -225,7 +225,7 @@
 		<interact>true</interact>
 		<damage>false</damage>
 		<place>false</place>
-		<break>false/break>
+		<break>false</break>
 		<entry>false</entry>
 		<message>This is a protected area.</message>
 	</region>

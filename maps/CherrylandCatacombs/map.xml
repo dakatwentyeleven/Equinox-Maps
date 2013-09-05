@@ -22,7 +22,7 @@
 	<team id="1">
 		<colour>Blue</colour>
 		<name>Blueberry</name>
-		<spawn>19,12,-87,180,0</spawn>
+		<spawn>19,12,87,180,0</spawn>
 		<radius>7</radius>
 	</team>
 	<team id="2">

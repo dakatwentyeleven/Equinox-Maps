@@ -301,4 +301,78 @@
 		<entry>false</entry>
 		<message>This is a protected area.</message>
 	</region>
+	
+	<!--Spawner Protection-->
+	<!--Red Team-->
+	<region>
+		<teams>Red</teams>
+		<location1>-71,67,753</location1>
+		<location2>-71,67,753</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your team's wool spawner!</message>
+	</region>
+	
+	<region>
+		<teams>Red</teams>
+		<location1>19,67,753</location1>
+		<location2>19,67,753</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your team's wool spawner!</message>
+	</region>
+	
+	<region>
+		<teams>Red</teams>
+		<location1>-26,36,780</location1>
+		<location2>-26,36,780</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your team's wool spawner!</message>
+	</region>
+	<!--Blue Team-->
+	<region>
+		<teams>Blue</teams>
+		<location1>-26,36,870</location1>
+		<location2>-26,36,870</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your team's wool spawner!</message>
+	</region>
+	
+	<region>
+		<teams>Blue</teams>
+		<location1>-71,67,897</location1>
+		<location2>-71,67,897</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your team's wool spawner!</message>
+	</region>
+	
+	<region>
+		<teams>Blue</teams>
+		<location1>19,67,897</location1>
+		<location2>19,67,897</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your team's wool spawner!</message>
+	</region>
  </map>

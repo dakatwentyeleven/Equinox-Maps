@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>The Dual</title>
+		<version>1.0</version>
+		<type>dtc</type>
+		<world>TheDual</world>
+		<spec>1452,39,-168,-90,0</spec>
+		<build>true</build>
+		<radius>8</radius>
+		<spawnprotect>true</spawnprotect>
+	</info>
+	
+	<authors>
+		<author>TrollIncForYou</author>
+	</authors>
+	
+	<team id="1">
+		<colour>Blue</colour>
+		<name>Blue Team</name>
+		<spawn>1521,23,-73,180,0</spawn>
+		<radius>6</radius>
+	</team>
+	
+	<team id="2">
+		<colour>Red</colour>
+		<name>Red Team</name>
+		<spawn>1521,23,-262,-180,0</spawn>
+		<radius>6</radius>
+	</team>
+	
+	<!-- Red Team Cores -->
+	<core>
+		<team>Red</team>
+		<id>a</id>
+		<name>Left</name>
+		<min>1544,53,-88</min>
+		<max>1538,58,-82</max>
+	</core>
+	<core>
+		<team>Red</team>
+		<id>b</id>
+		<name>Right</name>
+		<min>1497,58,-82</min>
+		<max>1503,53,-88</max>
+	</core>
+	
+	<!-- Blue Team Cores -->
+	<core>
+		<team>Blue</team>
+		<id>c</id>
+		<name>Left</name>
+		<min>1503,58,-254</min>
+		<max>1497,53,-248</max>
+	</core>
+	<core>
+		<team>Blue</team>
+		<id>d</id>
+		<name>Right</name>
+		<min>1544,58,-248</min>
+		<max>1538,53,-254</max>
+	</core>
+	<playable>
+		<min>1533,0,-267</min>
+		<max>1488,100,-69</max>
+		<message>Don't exit the playing field!</message>
+	</playable>
+</map>

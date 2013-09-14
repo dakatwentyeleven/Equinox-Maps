@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kit>
+	<info>
+		<name>Archer</name>
+		<donator>false</donator>
+	</info>
+	
+	<item id="1">
+		<slot>helmet</slot>
+		<id>298</id>
+		<amount>1</amount>
+		<name>Leather Helmet</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="2">
+		<slot>chestplate</slot>
+		<id>299</id>
+		<amount>1</amount>
+		<name>Iron Chestplate</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="5">
+		<slot>0</slot>
+		<id>272</id>
+		<amount>1</amount>
+		<name>Stone Sword</name>
+		<enchant></enchant>
+		<damage></damage>
+		<soulbound>true</soulbound>
+	</item>
+	
+	<item id="3">
+		<slot>2</slot>
+		<id>258</id>
+		<amount>1</amount>
+		<name>Iron Axe</name>
+		<enchant>34;3</enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="6">
+		<slot>1</slot>
+		<id>261</id>
+		<amount>1</amount>
+		<damage></damage>
+		<name>Bow</name>
+		<enchant>51;1</enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="7">
+		<slot>7</slot>
+		<id>373</id>
+		<damage>8261</damage>
+		<amount>1</amount>
+		<name>Potion of Healing</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+	</item>
+	
+	<item id="8">
+		<slot>3</slot>
+		<id>17</id>
+		<damage>2</damage>
+		<amount>32</amount>
+		<name>Birch Log</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="8">
+		<slot>4</slot>
+		<id>24</id>
+		<damage>2</damage>
+		<amount>64</amount>
+		<name>Sandstone</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="7">
+		<slot>5</slot>
+		<id>257</id>
+		<amount>1</amount>
+		<name>Iron Pickaxe</name>
+		<enchant>32;1</enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="8">
+		<slot>6</slot>
+		<id>393</id>
+		<amount>32</amount>
+		<name>Baked Potato</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="9">
+		<slot>28</slot>
+		<id>262</id>
+		<amount>64</amount>
+		<name>Arrow</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+</kit>

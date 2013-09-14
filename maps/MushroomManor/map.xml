@@ -5,7 +5,7 @@
     <version>1.0</version>
     <teams>2</teams>
     <type>tdm</type>
-    <world>MasterCow</world>
+    <world>MushroomManor</world>
     <creator>TheMasterCow</creator>
     <spec>1,144,56,-90,0</spec>
     <build>false</build>

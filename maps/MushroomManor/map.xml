@@ -8,7 +8,7 @@
     <world>MushroomManor</world>
     <creator>TheMasterCow</creator>
     <spec>1,144,56,-90,0</spec>
-    <build>false</build>
+    <build>true</build>
     <time>10:00</time>
     <radius>5</radius>
     <spawnprotect>true</spawnprotect>

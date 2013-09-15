@@ -67,7 +67,7 @@
 		<teams>Orange</teams>
 		<location1>-90,7,2</location1>
 		<location2>-86,1,-2</location2>
-		<interact>true</interact>
+		<interact>false</interact>
 		<damage>false</damage>
 		<place>false</place>
 		<break>false</break>
@@ -78,7 +78,7 @@
 		<teams>Purple</teams>
 		<location1>86,1,2</location1>
 		<location2>90,7,-2</location2>
-		<interact>true</interact>
+		<interact>false</interact>
 		<damage>false</damage>
 		<place>false</place>
 		<break>false</break>

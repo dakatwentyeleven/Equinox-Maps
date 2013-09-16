@@ -31,14 +31,14 @@
 	
 	<!-- Red Team Cores -->
 	<core>
-		<team>Red</team>
+		<team>Blue</team>
 		<id>a</id>
 		<name>Left</name>
 		<min>1544,53,-88</min>
 		<max>1538,58,-82</max>
 	</core>
 	<core>
-		<team>Red</team>
+		<team>Blue</team>
 		<id>b</id>
 		<name>Right</name>
 		<min>1497,58,-82</min>
@@ -47,14 +47,14 @@
 	
 	<!-- Blue Team Cores -->
 	<core>
-		<team>Blue</team>
+		<team>Red</team>
 		<id>c</id>
 		<name>Left</name>
 		<min>1503,58,-254</min>
 		<max>1497,53,-248</max>
 	</core>
 	<core>
-		<team>Blue</team>
+		<team>Red</team>
 		<id>d</id>
 		<name>Right</name>
 		<min>1544,58,-248</min>

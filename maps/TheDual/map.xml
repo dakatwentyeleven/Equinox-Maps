@@ -61,7 +61,7 @@
 		<max>1538,53,-254</max>
 	</core>
 	<playable>
-		<min>1533,0,-267</min>
+		<min>1553,0,-267</min>
 		<max>1488,100,-69</max>
 		<message>Don't exit the playing field!</message>
 	</playable>

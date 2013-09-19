@@ -5,7 +5,7 @@
 		<version>1.0</version>
 		<type>hardcore</type>
 		<world>Items</world>
-		<spec>160,111,-812,180,0</spec>
+		<spec>-77,137,7,180,0</spec>
 		<build>true</build>
 		<radius>7</radius>
 		<spawnprotect>true</spawnprotect>
@@ -17,13 +17,13 @@
 	<team id="1">
 		<colour>Yellow</colour>
 		<name>Yellow Team</name>
-		<spawn>104,111,-813,-90,0</spawn>
+		<spawn>-133,103,6,-90,0</spawn>
 		<radius>7</radius>
 	</team>
 	<team id="2">
 		<colour>Green</colour>
 		<name>Green Team</name>
-		<spawn>220,111,-813,90,0</spawn>
+		<spawn>-18,103,7,90,0</spawn>
 		<radius>7</radius>
 	</team>
 	<playable>

@@ -37,7 +37,7 @@
 		<place>false</place>
 		<break>false</break>
 		<entry>false</entry>
-		<message>Do not enter Pink Team's spawn.</message>
+		<message>Do not enter Green Team's spawn.</message>
 	</region>
 	<region>
 		<teams>Green</teams>
@@ -48,7 +48,7 @@
 		<place>false</place>
 		<break>false</break>
 		<entry>false</entry>
-		<message>Do not enter Green Team's spawn.</message>
+		<message>Do not enter Pink Team's spawn.</message>
 	</region>
 	<disabledamage>
 		<damage>fall</damage>

@@ -44,7 +44,7 @@
       <slot>3</slot>
       <id>256</id>
       <amount>1</amount>
-      <name>Iron shovel</name>
+      <name>Iron Shovel</name>
       <enchant></enchant>
       <soulbound>true</soulbound>
       <damage></damage>

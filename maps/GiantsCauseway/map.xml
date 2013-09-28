@@ -42,6 +42,17 @@
       <max>248,26,33</max>
    </core>
    <region>
+   	<teams>Blue,Red</teams>
+   	<location1>112,44,75</location1>
+   	<location2>116,44,79</location2>
+   	<interact>false</interact>
+   	<damage>true</damage>
+   	<place>false</place>
+   	<break>false</break>
+   	<entry>false</entry>
+   	<message>Do not enter observer spawn!</message>
+   </region>
+   <region>
       <teams>Blue</teams>
       <location1>-16,26,42</location1>
       <location2>-21,31,36</location2>

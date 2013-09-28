@@ -83,7 +83,7 @@
       <place>true</place>
       <break>true</break>
       <entry>true</entry>
-      <message></message>
+      <message>Do not break your own core!</message>
    </region>
    <region>
       <teams>Blue</teams>
@@ -94,11 +94,11 @@
       <place>true</place>
       <break>true</break>
       <entry>true</entry>
-      <message></message>
+      <message>Do not break your own core!</message>
    </region>
-   <playable>
-   <min>260,0,57</min>
-   <max>-27,150,18</max>
-   <message>Don't leave the map!</message>
+   	<playable>
+	<min>260,0,57</min>
+   	<max>-27,150,18</max>
+   	<message>Don't leave the map!</message>
    </playable>
 </map>

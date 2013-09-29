@@ -67,12 +67,12 @@
 		<damage></damage>
 	</item>
 	<item id="8">
-		<slot>8</slot>
+		<slot>7</slot>
 		<id>371</id>
 		<amount>5</amount>
 		<name>Gold Nugget</name>
 		<enchant></enchant>
-		<soulbound>true</soulbound>
+		<soulbound>false</soulbound>
 		<damage></damage>
 	</item>
 	<item id="9">

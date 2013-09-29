@@ -65,4 +65,28 @@
 		<max>-40,75,61</max>
 		<message>Don't leave the map!</message>
 	</playable>
+
+	<region>
+		<teams>Blue,Red</teams>
+		<location1>20,22,46</location1>
+		<location2>-20,25,39</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break team supplies!</message>
+	</region>
+
+	<region>
+		<teams>Blue,Red</teams>
+		<location1>-20,25,-46</location1>
+		<location2>20,22,-39</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break team supplies!</message>
+	</region>
 </map>

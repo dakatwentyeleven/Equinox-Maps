@@ -98,4 +98,8 @@
                 <entry>false</entry>
                 <message>Please don't mess with the observer spawn.</message>
         </region>
+        
+        <disabledamage>
+                <damage>fall</damage>
+        </disabledamage>
 </map>

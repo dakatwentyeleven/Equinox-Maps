@@ -75,7 +75,7 @@
 		<place>false</place>
 		<break>false</break>
 		<entry>true</entry>
-		<message>Don't break team supplies!</message>
+		<message>Don't break the supplies!</message>
 	</region>
 
 	<region>
@@ -87,6 +87,6 @@
 		<place>false</place>
 		<break>false</break>
 		<entry>true</entry>
-		<message>Don't break team supplies!</message>
+		<message>Don't break the supplies!</message>
 	</region>
 </map>

@@ -1,6 +1,11 @@
-#1: (StatesOfWar) Update Paths and Add Map |TheMasterCow|
-#2: (StatesOfWar) Add Protect the President Support |Jake0oo0|
-#3: (DuonyxBattlefield) Reserve Slot |TheMasterCow|
-#4: (GiantsCauseway) Remove Mob Eggs |TheMasterCow|
-#5: (GiantsCauseway) Remove Fire Charges |TheMasterCow|
-#6: (Explosions) Protect Team Spawns + Chests |TheMasterCow|
+#1: (Explosions) Protect Team Spawns + Chests |TheMasterCow|
+#2: (GiantsCauseway) Remove Fire Charges per lymi |TheMasterCow|
+#3: (GiantsCauseway) Remove Mob Eggs |TheMasterCow|
+#4: (DuonyxBattlefield) Reserve Slot |TheMasterCow|
+#5: (StatesOfWar| Add Protect the President |Jake0oo0|
+#6: (StatesOfWar) Update Paths and Add Map |TheMasterCow|
+#7: (revisions.txt) Change Formatting |TheMasterCow|
+
+
+
+

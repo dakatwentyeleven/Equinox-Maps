@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>States of War</title>
+		<version>1.0</version>
+		<type>ptp</type>
+		<world>StatesOfWar</world>
+		<spec>0.70,37,0,90,0</spec>
+		<build>false</build>
+		<radius>4</radius>
+		<spawnprotect>true</spawnprotect>
+	</info>
+
+	<authors>
+		<author>TheSecret8</author>
+	</authors>
+
+	<contributors>
+		<contributor>TheMasterCow;Paths and Edits
+	</contributors>
+		
+
+	<team id="1">
+		<colour>Blue</colour>
+		<name>Blue Team</name>
+		<spawn>30.70,21,4.30,-34,0</spawn>
+		<radius>5</radius>
+	</team>
+
+	<team id="2">
+		<colour>Orange</colour>
+		<name>Orange Team</name>
+		<spawn>-29.7,21,-3.3,-146,0</spawn>
+		<radius>5</radius>
+	</team>
+
+
+	<disabledamage>
+		<damage>fall</damage>
+	</disabledamage>
+
+</map>

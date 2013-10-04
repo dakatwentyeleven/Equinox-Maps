@@ -42,7 +42,7 @@
       <max>248,26,33</max>
    </core>
    <region>
-   	<teams>Blue,Red</teams>
+   	<teams>Blue</teams>
    	<location1>112,44,75</location1>
    	<location2>116,44,79</location2>
    	<interact>false</interact>

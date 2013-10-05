@@ -64,7 +64,7 @@
                 <id>d</id>
                 <name>Right Monument</name>
                 <team>Red</team>
-                <min>1308.0,112,0,-236.0</min>
+                <min>1308.0,112.0,-236.0</min>
                 <max>1308.0,111.0,-236.0</max>
                 <radius>0</radius>
         </monument>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Senex Halloween</title>
+		<version>1.0</version>
+		<type>dtm</type>
+		<world>TheMasterCow1</world>
+		<spec>113.44,136,-658,-0,0</spec>
+		<build>true</build>
+		<radius>8</radius>
+		<spawnprotect>true</spawnprotect>
+	</info>
+
+	<authors>
+		<author>Haribo98</author>
+	</authors>
+
+	<authors>
+		<author>Phoenix1123</author>
+	</authors>
+
+	<team id="1">
+		<colour>Orange</colour>
+		<name>Orange Team</name>
+		<spawn>161,116,-598,90,0</spawn>
+		<radius>7</radius>
+	</team>
+
+	<team id="2">
+		<colour>Gray</colour>
+		<name>Gray Team</name>
+		<spawn>65,116,-598,-90,0</spawn>
+		<radius>7</radius>
+	</team>
+	<!-- From behind orange, right monument (below) -->
+	<monument id="1">
+		<id>a</id>
+		<name>Left</name>
+		<team>Gray</team>
+		<min>222,118,-580</min>
+		<max>222,118,-580</max>
+		<radius>1</radius>
+	</monument>
+	<!-- From behind orange, left monument (below) -->
+	<monument id="2">
+		<id>b</id>
+		<name>Right</name>
+		<team>Gray</team>
+		<max>222,118,-618</max>
+		<min>222,118,-618</min>
+		<radius>1</radius>
+	</monument>
+	 <!-- From behind gray, left monument (below) -->
+	<monument id="3">
+		<id>c</id>
+		<name>Left</name>
+		<team>Orange</team>
+		<max>4,118,-580</max>
+		<min>4,118,-580</min>
+		<radius>1</radius>
+	</monument>
+	 <!-- From behind gray, right monument (below) -->
+	<monument id="4">
+		<id>d</id>
+		<name>Right</name>
+		<team>Orange</team>
+		<max>4,118,-618</max>
+		<min>4,118,-618</min>
+		<radius>1</radius>
+	</monument>
+</map>

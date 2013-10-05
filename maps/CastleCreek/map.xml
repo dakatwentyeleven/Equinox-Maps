@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Castle Creek</title>
+		<version>1.0</version>
+		<type>dtc</type>
+		<world>CastleCreek</world>
+		<spec>-0,171,-1,-48,0</spec>
+		<build>true</build>
+		<radius>5</radius>
+		<spawnprotect>true</spawnprotect>
+		<objective>Leak the lava from the enemy core to win!</objective>
+	</info>
+	<authors>
+		<author>Without_Regret</author>
+		<author>IAMscoggin</author>
+		<author>sl00k</author>
+		<author>N1rnbvs</author>
+	</authors>
+
+	<contributors>
+		<contributor>TheMasterCow;Map XML</contributor>
+	</contributors>
+	<team id="1">
+		<colour>Blue</colour>
+		<name>Blue Team</name>
+		<spawn>-29,99,-40,100,0</spawn>
+		<radius>10</radius>
+	</team>
+	<team id="2">
+		<colour>Red</colour>
+		<name>Red Team</name>
+		<spawn>45,99,-56,100,0</spawn>
+		<radius>10</radius>
+	</team>
+	<core>
+		<team>Blue</team>
+		<id>aB</id>
+		<name>Castle Core</name>
+		<min>-68,100,18</min>
+		<max>-74,107,24</max>
+	</core>
+	<core>
+		<team>Red</team>
+		<id>aR</id>
+		<name>Castle Core</name>
+		<min>84,100,-117</min>
+		<max>88,108,-121</max>
+	</core>
+</map>

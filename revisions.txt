@@ -8,5 +8,6 @@
 #8: (TornCanyon) Fix Spawn Error |Jake0oo0|
 #9: (CastleCreeks) Add Castle Creeks v1.0 by Without_Regret |TheMasterCow|
 #10: (Senex2Halloween) Add Senex 2 Halloween by Haribo & Phoenix |Jake0oo0 + TheMasterCow|
+#11: (CastleCreek) Add Kits |TheMasterCow|
 
 

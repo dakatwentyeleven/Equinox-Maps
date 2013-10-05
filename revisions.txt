@@ -2,11 +2,11 @@
 #2: (GiantsCauseway) Remove Fire Charges per lymi |TheMasterCow|
 #3: (GiantsCauseway) Remove Mob Eggs |TheMasterCow|
 #4: (DuonyxBattlefield) Reserve Slot |TheMasterCow|
-#5: (StatesOfWar| Add Protect the President |Jake0oo0|
+#5: (StatesOfWar) Add Protect the President |Jake0oo0|
 #6: (StatesOfWar) Update Paths and Add Map |TheMasterCow|
 #7: (revisions.txt) Change Formatting |TheMasterCow|
 #8: (TornCanyon) Fix Spawn Error |Jake0oo0|
 #9: (CastleCreeks) Add Castle Creeks v1.0 by Without_Regret |TheMasterCow|
-
+#10: (Senex2Halloween) Add Senex 2 Halloween by Haribo & Phoenix |Jake0oo0 + TheMasterCow|
 
 

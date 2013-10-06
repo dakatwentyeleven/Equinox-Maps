@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <info>
+    <title>Tumbleweed</title>
+    <version>1.0</version>
+    <teams>2</teams>
+    <type>tdm</type>
+    <world>Tumbleweed</world>
+    <spec>114,135,-0,-90,0</spec>
+    <build>true</build>
+    <time>20:00</time>
+    <radius>5</radius>
+    <spawnprotect>true</spawnprotect>
+    <objective>Kill all of the enemy team!</objective>
+ </info>
+
+  <authors>
+    <author>TheMasterCow</author>
+  </authors>
+
+  <team id="1">
+    <name>Red Team</name>
+    <colour>Red</colour>
+    <spawn>-3,76,-86,-90,0</spawn>
+    <radius>7</radius>
+  </team>
+
+  <team>
+    <name>Orange Team</name>
+    <colour>Orange</colour>
+    <spawn>11,72,102,-90,0</spawn>
+    <radius>7</radius>
+  </team>
+</map>

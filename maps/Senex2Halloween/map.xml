@@ -4,7 +4,7 @@
 		<title>Senex Halloween</title>
 		<version>1.0</version>
 		<type>dtm</type>
-		<world>SenexHalloween</world>
+		<world>Senex2Halloween</world>
 		<spec>113.44,136,-658,-0,0</spec>
 		<build>true</build>
 		<radius>8</radius>

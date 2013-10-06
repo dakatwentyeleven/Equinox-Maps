@@ -93,7 +93,7 @@
 	<item id="8">
 		<slot>7</slot>
 		<id>350</id>
-		<amount>32</amount>
+		<amount>16</amount>
 		<name>Cooked Fish</name>
 		<enchant></enchant>
 		<soulbound>false</soulbound>

@@ -22,13 +22,13 @@
     <name>Red Team</name>
     <colour>Red</colour>
     <spawn>-3,76,-86,-90,0</spawn>
-    <radius>7</radius>
+    <radius>14</radius>
   </team>
 
   <team>
     <name>Orange Team</name>
     <colour>Orange</colour>
     <spawn>11,72,102,-90,0</spawn>
-    <radius>7</radius>
+    <radius>14</radius>
   </team>
 </map>

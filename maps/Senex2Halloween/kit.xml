@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kit>
 	<info>
-		<name>Spawn</name>
+		<name>Archer</name>
 		<donator>false</donator>
 	</info>
-
+	
 	<item id="3">
 		<slot>chestplate</slot>
 		<id>299</id>
@@ -14,7 +14,7 @@
 		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>
-
+	
 	<item id="5">
 		<slot>0</slot>
 		<id>272</id>
@@ -24,7 +24,7 @@
 		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>
-
+	
 	<item id="6">
 		<slot>1</slot>
 		<id>261</id>
@@ -34,7 +34,7 @@
 		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>
-
+	
 	<item id="7">
 		<slot>2</slot>
 		<id>278</id>
@@ -44,17 +44,17 @@
 		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>
-
+	
 	<item id="7">
 		<slot>3</slot>
 		<id>322</id>
 		<amount>2</amount>
-		<name>§eGolden Apple</name>
+		<name>Â§eGolden Apple</name>
 		<enchant></enchant>
 		<soulbound>false</soulbound>
 		<damage></damage>
 	</item>
-
+	
 	<item id="8">
 		<slot>4</slot>
 		<id>364</id>
@@ -64,7 +64,7 @@
 		<soulbound>false</soulbound>
 		<damage></damage>
 	</item>
-
+	
 	<item id="8">
 		<slot>5</slot>
 		<id>20</id>
@@ -74,7 +74,7 @@
 		<soulbound>false</soulbound>
 		<damage></damage>
 	</item>
-
+	
 	<item id="8">
 		<slot>6</slot>
 		<id>24</id>
@@ -84,7 +84,7 @@
 		<soulbound>false</soulbound>
 		<damage></damage>
 	</item>
-
+	
 	<item id="8">
 		<slot>7</slot>
 		<id>17</id>
@@ -94,7 +94,7 @@
 		<soulbound>false</soulbound>
 		<damage></damage>
 	</item>
-
+	
 	<item id="9">
 		<slot>28</slot>
 		<id>262</id>

@@ -121,8 +121,8 @@
 		<damage></damage>
 	</item>
 	<item id="14">
-		<slot>9</slot>
-		<id>65</id>
+		<slot>28</slot>
+		<id>262</id>
 		<amount>1</amount>
 		<name>Arrow</name>
 		<enchant></enchant>

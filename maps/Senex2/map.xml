@@ -5,7 +5,6 @@
 		<version>1.0</version>
 		<type>dtm</type>
 		<world>Senex2</world>
-		<creator>Haribo98 and Phoenix1123</creator>
 		<spec>147.5,46,-848.5,-0,0</spec>
 		<build>true</build>
 		<radius>8</radius>
@@ -14,9 +13,6 @@
 	
 	<authors>
 		<author>Haribo98</author>
-	</authors>
-	
-	<authors>
 		<author>Phoenix1123</author>
 	</authors>
 	

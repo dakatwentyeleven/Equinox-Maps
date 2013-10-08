@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Icebliss PTP</title>
+		<version>2.1.3</version>
+		<teams>ptp</teams>
+		<type>tdm</type>
+		<world>Icebliss</world>
+		<creator>nixter1029</creator>
+		<spec>85.5,81.0,-79.5,45,0</spec>
+		<build>true</build>
+		<time>12:00</time>
+		<radius>5</radius>
+		<spawnprotect>true</spawnprotect>
+	</info>
+	<authors>
+		<author>nixter1029</author>
+	</authors>
+	<team id="1">
+		<name>Red Team</name>
+		<colour>Red</colour>
+		<spawn>0.5,24.0,-68.5,0,0</spawn>
+		<radius>7</radius>
+	</team>
+	
+	<team id="2">
+		<name>Blue Team</name>
+		<colour>Blue</colour>
+		<spawn>69.5,24.0,0.5,90,0</spawn>
+		<radius>7</radius>
+	</team>
+	<team id="3">
+		<name>Purple Team</name>
+		<colour>Purple</colour>
+		<spawn>0.5,24.0,69.5,180,0</spawn>
+		<radius>7</radius>
+	</team>
+	<team id="4">
+		<name>Yellow Team</name>
+		<colour>Yellow</colour>
+		<spawn>-68.5,24.0,0.5,-90,0</spawn>
+		<radius>7</radius>
+	</team>
+	<!-- Red teams spawn -->
+	<region>
+		<teams>Blue,Purple,Yellow</teams>
+		<location1>-10,13,-59</location1>
+		<location2>10,30,-79</location2>
+ 		<interact>false</interact>
+ 		<damage>true</damage>
+ 		<place>false</place>
+ 		<break>false</break>
+ 		<entry>false</entry>
+		<message>Don't enter other teams spawn.</message>
+ 	</region>
+	<region>
+		<teams>Red</teams>
+		<location1>-10,13,-59</location1>
+		<location2>10,30,-79</location2>
+		<interact>true</interact>
+		<damage>true</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your spawn.</message>
+	</region>
+	<!-- Blue teams spawn -->
+	<region>
+		<teams>Red,Purple,Yellow</teams>
+		<location1>79,13,10</location1>
+		<location2>59,30,-10</location2>
+ 		<interact>false</interact>
+ 		<damage>true</damage>
+ 		<place>false</place>
+ 		<break>false</break>
+ 		<entry>false</entry>
+		<message>Don't enter other teams spawn.</message>
+ 	</region>
+	<region>
+		<teams>Blue</teams>
+		<location1>79,13,10</location1>
+		<location2>59,30,-10</location2>
+		<interact>true</interact>
+		<damage>true</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your spawn.</message>
+	</region>
+	<!-- Purple teams spawn -->
+	<region>
+		<teams>Red,Blue,Yellow</teams>
+		<location1>10,13,59</location1>
+		<location2>-10,30,79</location2>
+ 		<interact>false</interact>
+ 		<damage>true</damage>
+ 		<place>false</place>
+ 		<break>false</break>
+ 		<entry>false</entry>
+		<message>Don't enter other teams spawn.</message>
+ 	</region>
+	<region>
+		<teams>Purple</teams>
+		<location1>10,13,59</location1>
+		<location2>-10,30,79</location2>
+		<interact>true</interact>
+		<damage>true</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your spawn.</message>
+	</region>
+	<!-- Yellow teams spawn -->
+	<region>
+		<teams>Red,Blue,Purple</teams>
+		<location1>-79,13,-10</location1>
+		<location2>-59,30,10</location2>
+ 		<interact>false</interact>
+ 		<damage>true</damage>
+ 		<place>false</place>
+ 		<break>false</break>
+ 		<entry>false</entry>
+		<message>Don't enter other teams spawn.</message>
+ 	</region>
+	<region>
+		<teams>Yellow</teams>
+		<location1>-79,13,-10</location1>
+		<location2>-59,30,10</location2>
+		<interact>true</interact>
+		<damage>true</damage>
+		<place>false</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your spawn.</message>
+	</region>
+</map>

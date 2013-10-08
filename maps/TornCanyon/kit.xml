@@ -5,11 +5,11 @@
                 <donator>false</donator>
         </info>
  
-        <item id="3">
+        <item id="1">
                 <slot>helmet</slot>
                 <id>298</id>
                 <amount>1</amount>
-                <name>Leather Chestplate</name>
+                <name>Leather Helmet</name>
                 <enchant></enchant>
                 <soulbound>true</soulbound>
                 <damage></damage>

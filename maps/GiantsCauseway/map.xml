@@ -28,14 +28,14 @@
       <radius>7</radius>
    </team>
    <core>
-      <team>Blue</team>
+      <team>Red</team>
       <id>a</id>
       <name>Core</name>
       <min>-16,26,42</min>
       <max>-21,31,36</max>
    </core>
    <core>
-      <team>Red</team>
+      <team>Blue</team>
       <id>b</id>
       <name>Core</name>
       <min>254,31,39</min>

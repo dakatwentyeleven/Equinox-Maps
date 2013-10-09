@@ -3,8 +3,8 @@
 	<info>
 		<title>Icebliss PTP</title>
 		<version>2.1.3</version>
-		<teams>ptp</teams>
-		<type>tdm</type>
+		<teams>2</teams>
+		<type>ptp</type>
 		<world>Icebliss</world>
 		<creator>nixter1029</creator>
 		<spec>85.5,81.0,-79.5,45,0</spec>

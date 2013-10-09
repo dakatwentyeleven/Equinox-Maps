@@ -6,7 +6,6 @@
 		<teams>2</teams>
 		<type>ptp</type>
 		<world>Icebliss</world>
-		<creator>nixter1029</creator>
 		<spec>85.5,81.0,-79.5,45,0</spec>
 		<build>true</build>
 		<radius>5</radius>
@@ -27,17 +26,4 @@
 		<spawn>69.5,24.0,0.5,90,0</spawn>
 		<radius>7</radius>
 	</team>
-	<team id="3">
-		<name>Purple Team</name>
-		<colour>Purple</colour>
-		<spawn>0.5,24.0,69.5,180,0</spawn>
-		<radius>7</radius>
-	</team>
-	<team id="4">
-		<name>Yellow Team</name>
-		<colour>Yellow</colour>
-		<spawn>-68.5,24.0,0.5,-90,0</spawn>
-		<radius>7</radius>
-	</team>
-	<!-- Red teams spawn -->
 </map>

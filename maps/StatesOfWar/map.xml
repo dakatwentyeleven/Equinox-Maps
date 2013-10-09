@@ -23,7 +23,7 @@
 		<radius>5</radius>
 	</team>
 	<team id="2">
-		<colour>Gold</colour>
+		<colour>Orange</colour>
 		<name>Orange Team</name>
 		<spawn>-29.7,21,-3.3,-146,0</spawn>
 		<radius>5</radius>

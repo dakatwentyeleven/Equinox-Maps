@@ -68,7 +68,7 @@
 		<message>Don't enter other teams spawn.</message>
  	</region>
 	<region>
-		<teams>Blue</teams>
+		<teams>Red</teams>
 		<location1>26,0,104</location1>
 		<location2>-3,82,85</location2>
 		<interact>true</interact>

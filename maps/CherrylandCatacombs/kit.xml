@@ -69,15 +69,15 @@
    </item>
    <item id="8">
       <slot>6</slot>
-      <id>265</id>
+      <id>258</id>
       <amount>1</amount>
-      <name>Iron Ingot</name>
+      <name>Iron Axe</name>
      <enchant></enchant>
       <soulbound>false</soulbound>
       <damage></damage>
    </item>
    <item id="8">
-      <slot>7</slot>
+      <slot>32</slot>
       <id>322</id>
       <amount>2</amount>
       <name>Golden Apple</name>

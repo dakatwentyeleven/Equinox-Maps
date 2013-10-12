@@ -4,14 +4,13 @@
     <title>Tumbleweed</title>
     <version>1.0</version>
     <teams>2</teams>
-    <type>tdm</type>
+    <type>dtm</type>
     <world>Tumbleweed</world>
     <spec>114,135,-0,-90,0</spec>
     <build>true</build>
-    <time>15:00</time>
     <radius>5</radius>
     <spawnprotect>true</spawnprotect>
-    <objective>Kill the enemy team.</objective>
+    <objective>Destroy the enemy monument!</objective>
  </info>
 
   <authors>
@@ -19,14 +18,14 @@
   </authors>
 
   <team id="1">
-    <name>Red Team</name>
+    <name>Duck Team</name>
     <colour>Red</colour>
     <spawn>-3,76,-86,-90,0</spawn>
     <radius>5</radius>
   </team>
 
   <team id="2">
-    <name>Orange Team</name>
+    <name>Turkey Team</name>
     <colour>Orange</colour>
     <spawn>11,72,102,-90,0</spawn>
     <radius>5</radius>
@@ -56,4 +55,20 @@
 		<entry>true</entry>
 		<message>Don't break your spawn.</message>
 	</region>
+	<monument id="1">
+		<id>1</id>
+		<name>Monument</name>
+		<team>Red</team>
+		<min>11,73,112</min>
+		<max>11,72,112</max>
+		<radius>2</radius>
+	</monument>
+	<monument id="2">
+		<id>2</id>
+		<name>Monument</name>
+		<team>Orange</team>
+		<min>-4,77,-98</min>
+		<max>-4,76,-98</max>
+		<radius>2</radius>
+	</monument>
 </map>

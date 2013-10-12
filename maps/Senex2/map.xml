@@ -20,14 +20,18 @@
 		<colour>Orange</colour>
 		<name>Orange Team</name>
 		<spawn>195.5,25,-788,90,0</spawn>
-		<radius>7</radius>
+		<radius>5</radius>
+		<place>false</place>
+		<break>false</break>
 	</team>
 	
 	<team id="2">
 		<colour>Gray</colour>
 		<name>Gray Team</name>
 		<spawn>99.5,25,-788.5,-90,0</spawn>
-		<radius>7</radius>
+		<radius>5</radius>
+		<place>false</place>
+		<break>false</break>
 	</team>
 	<!-- From behind orange, right monument (below) -->
 	<monument id="1">

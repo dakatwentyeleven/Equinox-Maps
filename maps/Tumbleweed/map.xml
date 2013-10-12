@@ -21,14 +21,14 @@
     <name>Duck Team</name>
     <colour>Red</colour>
     <spawn>-3,76,-86,-90,0</spawn>
-    <radius>5</radius>
+    <radius>2</radius>
   </team>
 
   <team id="2">
     <name>Turkey Team</name>
     <colour>Orange</colour>
     <spawn>11,72,102,-90,0</spawn>
-    <radius>5</radius>
+    <radius>2</radius>
   </team>
   
   <!-- Orange teams spawn -->

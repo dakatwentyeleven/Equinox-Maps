@@ -1,0 +1,34 @@
+<kit>
+	<info>
+		<name>spawn</name>
+		<donator>false</donator>
+	</info>
+
+	<item>
+		<slot>0</slot>
+		<id>332</id>
+		<amount>16</amount>
+		<name>Snowball</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item>
+		<slot>1</slot>
+		<id>332</id>
+		<amount>16</amount>
+		<name>Snowball</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item>
+		<slot>2</slot>
+		<id>332</id>
+		<amount>16</amount>
+		<name>Snowball</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+</kit>

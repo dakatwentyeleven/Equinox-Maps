@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Hogwarts Express</title>
+		<version>2.1.3</version>
+		<teams>2</teams>
+		<type>paintball</type>
+		<world>HogwartsExpress</world>
+		<spec>394,69,-342,-90,0</spec>
+		<build>false</build>
+		<radius>5</radius>
+	</info>
+	<authors>
+		<author>Sherlington</author>
+	</authors>
+	<team id="1">
+		<name>Red Team</name>
+		<colour>Red</colour>
+		<spawn>394,59,-431,0,0</spawn>
+		<radius>7</radius>
+	</team>
+
+	<team id="2">
+		<name>Blue Team</name>
+		<colour>Blue</colour>
+		<spawn>394,59,-253,0,0</spawn>
+		<radius>7</radius>
+	</team>
+</map>

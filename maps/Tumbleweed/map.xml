@@ -32,20 +32,9 @@
     <radius>5</radius>
   </team>
   
-  <!-- Red teams spawn -->
+  <!-- Orange teams spawn -->
 	<region>
 		<teams>Orange</teams>
-		<location1>-18,0,-91</location1>
-		<location2>-11,82,-71</location2>
- 		<interact>false</interact>
- 		<damage>true</damage>
- 		<place>false</place>
- 		<break>false</break>
- 		<entry>false</entry>
-		<message>Don't enter other teams spawn.</message>
- 	</region>
-	<region>
-		<teams>Red</teams>
 		<location1>-18,0,-91</location1>
 		<location2>-11,82,-71</location2>
 		<interact>true</interact>
@@ -55,18 +44,7 @@
 		<entry>true</entry>
 		<message>Don't break your spawn.</message>
 	</region>
-	<!-- Blue teams spawn -->
-	<region>
-		<teams>Orange</teams>
-		<location1>26,0,104</location1>
-		<location2>-3,82,85</location2>
- 		<interact>false</interact>
- 		<damage>true</damage>
- 		<place>false</place>
- 		<break>false</break>
- 		<entry>false</entry>
-		<message>Don't enter other teams spawn.</message>
- 	</region>
+	<!-- Red teams spawn -->
 	<region>
 		<teams>Red</teams>
 		<location1>26,0,104</location1>

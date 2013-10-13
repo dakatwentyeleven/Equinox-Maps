@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Grief</title>
+		<version>1.0</version>
+		<type>ptp</type>
+		<world>Grief</world>
+		<spec>9,50,-910,0,0</spec>
+		<build>false</build>
+		<radius>5</radius>
+		<spawnprotect>true</spawnprotect>
+	</info>
+	<authors>
+		<author>TheMasterCow</author>
+		<author>SkaterSam200</author>
+	</authors>
+	<contributors>
+		<contributor>FlagshipWow;Torture</contributor>
+	</contributors>
+	<team id="1">
+		<colour>Green</colour>
+		<name>Green Team</name>
+		<spawn>21.1,31,-803.9,90,0</spawn>
+		<radius>5</radius>
+	</team>
+	<team id="2">
+		<colour>Red</colour>
+		<name>Red Team</name>
+		<spawn>21,31,-879.1,90,0</spawn>
+		<radius>5</radius>
+	</team>
+	<disabledamage>
+		<damage>fall</damage>
+	</disabledamage>
+</map>

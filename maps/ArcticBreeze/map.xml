@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <info>
+    <title>Arctic Breeze</title>
+    <version>1.0</version>
+    <teams>2</teams>
+    <type>dtm</type>
+    <world>ArcticBreeze</world>
+    <spec>41,88,-662,-179,0</spec>
+    <build>true</build>
+    <radius>5</radius>
+    <spawnprotect>true</spawnprotect>
+    <objective>Destroy the enemy monument!</objective>
+ </info>
+
+  <authors>
+    <author>SkaterSam200</author>
+    <author>TheMasterCow</author>
+  </authors>
+
+  <team id="1">
+    <name>White Team</name>
+    <colour>White</colour>
+    <spawn>8,62,-703,178,0</spawn>
+    <radius>5</radius>
+  </team>
+
+  <team id="2">
+    <name>Blue Team</name>
+    <colour>Navy</colour>
+    <spawn>7,62,-800,0,0</spawn>
+    <radius>5</radius>
+  </team>
+  <monument id="1">
+    <id>1</id>
+    <name>Monument</name>
+    <team>White</team>
+    <min>20,57,-814</min>
+    <max>20,56,-814</max>
+    <radius>1</radius>
+  </monument>
+  <monument id="2">
+    <id>2</id>
+    <name>Monument</name>
+    <team>Navy</team>
+    <min>20,57,-691</min>
+    <max>20,56,-691</max>
+    <radius>1</radius>
+  </monument>
+</map>

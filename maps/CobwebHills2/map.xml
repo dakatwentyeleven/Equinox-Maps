@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <info>
+    <title>Cobweb Hills 2: Tournament</title>
+    <version>1.0</version>
+    <teams>2</teams>
+    <type>dtm</type>
+    <world>CobwebHills2</world>
+    <spec>107,75,-778,-90,0</spec>
+    <build>true</build>
+    <radius>10</radius>
+    <spawnprotect>true</spawnprotect>
+    <objective>Destroy the enemy redstone block monuments!</objective>
+ </info>
+
+  <authors>
+    <author>TheMasterCow</author>
+  </authors>
+
+  <team id="1">
+    <name>Red Team</name>
+    <colour>Red</colour>
+    <spawn>8,62,-703,178,0</spawn>
+    <radius>7</radius>
+  </team>
+
+  <team id="2">
+    <name>Purple Team</name>
+    <colour>Purple</colour>
+    <spawn>7,62,-800,0,0</spawn>
+    <radius>7</radius>
+  </team>
+  <monument id="1">
+    <id>1</id>
+    <name>Right Monument</name>
+    <team>Red</team>
+    <min>47,23,-798</min>
+    <max>46,24,-799</max>
+    <radius>0</radius>
+  </monument>
+  <monument id="2">
+    <id>2</id>
+    <name>Left Monument</name>
+    <team>Red</team>
+    <min>30,23,-798</min>
+    <max>29,24,-799</max>
+    <radius>0</radius>
+  </monument>
+ <monument id="3">
+  <id>3</id>
+  <name>Right Monument</name>
+  <team>Purple</team>
+  <min>31,24,-743</min>
+  <max>30,23,-744</max>
+  <radius>0</radius>
+ <monument id="4">
+   <id>4</id>
+  <name>Left Monument</name>
+  <team>Purple</team>
+  <min>47,23,-744</min>
+  <max>48,24,-743</max>
+  <radius>0</radius>
+</map>

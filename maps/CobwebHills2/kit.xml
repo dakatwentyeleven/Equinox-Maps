@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kit>
+	<info>
+		<name>Spawn</name>
+		<donator>false</donator>
+	</info>
+
+	<item id="3">
+		<slot>chestplate</slot>
+		<id>303</id>
+		<amount>1</amount>
+		<name>Chainmail Chestplate</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="3">
+		<slot>leggings</slot>
+		<id>300</id>
+		<amount>1</amount>
+		<name>Leather Leggings</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="3">
+		<slot>helmet</slot>
+		<id>298</id>
+		<amount>1</amount>
+		<name>Leather Helmet</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="3">
+		<slot>boots</slot>
+		<id>301</id>
+		<amount>1</amount>
+		<name>Leather Boots</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="5">
+		<slot>0</slot>
+		<id>272</id>
+		<amount>1</amount>
+		<name>Stone Sword</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="6">
+		<slot>1</slot>
+		<id>261</id>
+		<amount>1</amount>
+		<name>Bow</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="7">
+		<slot>2</slot>
+		<id>257</id>
+		<amount>1</amount>
+		<name>Iron Pickaxe</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="7">
+		<slot>3</slot>
+		<id>256</id>
+		<amount>1</amount>
+		<name>Iron Shovel</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	<item id="8">
+		<slot>4</slot>
+		<id>17</id>
+		<amount>64</amount>
+		<name>Oak Wood</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	<item id="8">
+		<slot>5</slot>
+		<id>322</id>
+		<amount>2</amount>
+		<name>Golden Apple</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	<item id="8">
+		<slot>6</slot>
+		<id>320</id>
+		<amount>6</amount>
+		<name>Cooked Chicken</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	<item id="9">
+		<slot>28</slot>
+		<id>262</id>
+		<amount>64</amount>
+		<name>Arrow</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	<item id="9">
+		<slot>29</slot>
+		<id>262</id>
+		<amount>64</amount>
+		<name>Arrow</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+</kit>

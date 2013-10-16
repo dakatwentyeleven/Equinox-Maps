@@ -11,19 +11,20 @@ NORMAL MAPS (Rendezvous 2, Senex 2, etc.)
 2. Castle Adventures
 3. Castle Creek
 4. Cherryland Catacombs 2
-5. Dark Side of the Moon
-6. Explosions
-7. Giant's Causeway
-8. Icebliss
-9. Infinity Loop
-10. Mushroom Manor
-11. Obirah
-12. Ocean Islands
-13. Rendezvous 2
-14. Senex 2
-15. The Dual
-16. Tumbleweed
-17. White Knife Peaks
+5. Cobweb Hills 2
+6. Dark Side of the Moon
+7. Explosions
+8. Giant's Causeway
+9. Icebliss
+10. Infinity Loop
+11. Mushroom Manor
+12. Obirah
+13. Ocean Islands
+14. Rendezvous 2
+15. Senex 2
+16. The Dual
+17. Tumbleweed
+18. White Knife Peaks
 
 -----------------------------------------
 HARDCORE MAPS (Items, Cobweb Hills, etc.)
@@ -36,6 +37,7 @@ PTP MAPS (States of War, IceblissPTP, etc.)
 ------------------------------------------
 1. Icebliss PTP
 2. States of War
+3. Grief
 
 -----------------------------------------------
 BROKEN MAPS (Giant's Causeway, ObsChalice, etc.

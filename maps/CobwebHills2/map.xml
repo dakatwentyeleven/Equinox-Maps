@@ -53,6 +53,7 @@
   <min>31,24,-743</min>
   <max>30,23,-744</max>
   <radius>0</radius>
+ </monument>
  <monument id="4">
    <id>4</id>
   <name>Left Monument</name>

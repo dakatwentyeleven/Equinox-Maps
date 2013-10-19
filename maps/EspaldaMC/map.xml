@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+        <info>
+                <title>EspaldaHC</title>
+                <version>1.1</version>
+                <teams>6</teams>
+                <type>hardcore</type>
+                <world>EspaldaHC</world>
+                <spec>21,63,-809,90,0</spec>
+                <build>false</build>
+                <radius>7</radius>
+                <spawnprotect>true</spawnprotect>
+                <objective>Knock the enemy team off the platforms!</objective>
+        </info>
+        <authors>
+                <author>TheMasterCow</author>
+        </authors>
+        <team id="1">
+                <name>Red Team</name>
+                <colour>Red</colour>
+                <spawn>-11,41,-809,-90,0</spawn>
+                <radius>10</radius>
+        </team>
+        <team id="2">
+                <name>Navy Team</name>
+                <colour>Navy</colour>
+                <spawn>-4,36,-809,-90,0</spawn>
+                <radius>10</radius>
+        </team>
+        <team id="3">
+                <name>White Team</name>
+                <colour>White</colour>
+                <spawn>14,32,-809,-90,0</spawn>
+                <radius>10</radius>
+        </team>
+       <team id="4">
+                <name>Orange Team</name>
+                <colour>Orange</colour>
+                <spawn>55,41,-809,90,0</spawn>
+                <radius>10</radius>
+        </team>
+       <team id="5">
+                <name>Blue Team</name>
+                <colour>Blue</colour>
+                <spawn>48,36,-809,90,0</spawn>
+                <radius>10</radius>
+       </team>
+       <team id="6">
+                <name>Gray Team</name>
+                <colour>Gray</colour>
+                <spawn>28,32,-809,90,0</spawn>
+                <radius>10</radius>
+        </team>
+</map>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kit>
+        <info>
+                <name>Spawn</name>
+                <donator>false</donator>
+        </info>
+        
+        <item id="3">
+                <slot>chestplate</slot>
+                <id>303</id>
+                <amount>1</amount>
+                <name>Chainmail Chestplate</name>
+                <enchant></enchant>
+                <soulbound>true</soulbound>
+                <damage></damage>
+        </item>
+        
+        <item id="5">
+                <slot>0</slot>
+                <id>103</id>
+                <amount>1</amount>
+                <name>Melon</name>
+                <enchant>19;3</enchant>
+                <soulbound>true</soulbound>
+                <damage></damage>
+        </item>
+        
+        <item id="8">
+                <slot>4</slot>
+                <id>365</id>
+                <amount>8</amount>
+                <name>Raw Chicken</name>
+                <enchant></enchant>
+                <soulbound>true</soulbound>
+                <damage></damage>
+        </item>
+</kit>

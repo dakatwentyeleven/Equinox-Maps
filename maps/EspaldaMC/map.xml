@@ -52,4 +52,7 @@
                 <spawn>28,32,-809,90,0</spawn>
                 <radius>10</radius>
         </team>
+        <disabledamage>
+                <damage>fall</damage>
+        </disabledamage>
 </map>

@@ -36,7 +36,7 @@
     <team>Red</team>
     <min>47,23,-798</min>
     <max>46,24,-799</max>
-    <radius>0</radius>
+    <radius>1</radius>
   </monument>
   <monument id="2">
     <id>2</id>
@@ -44,7 +44,7 @@
     <team>Red</team>
     <min>30,23,-798</min>
     <max>29,24,-799</max>
-    <radius>0</radius>
+    <radius>1</radius>
   </monument>
  <monument id="3">
   <id>3</id>
@@ -52,7 +52,7 @@
   <team>Purple</team>
   <min>31,24,-743</min>
   <max>30,23,-744</max>
-  <radius>0</radius>
+  <radius>1</radius>
  </monument>
  <monument id="4">
    <id>4</id>
@@ -60,6 +60,6 @@
   <team>Purple</team>
   <min>47,23,-744</min>
   <max>48,24,-743</max>
-  <radius>0</radius>
+  <radius>1</radius>
  </monument>
 </map>

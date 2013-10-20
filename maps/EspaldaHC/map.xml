@@ -4,11 +4,12 @@
                 <title>EspaldaHC</title>
                 <version>1.1</version>
                 <teams>6</teams>
-                <type>hardcore</type>
+                <type>tdm</type>
                 <world>EspaldaHC</world>
                 <spec>21,63,-809,90,0</spec>
                 <build>false</build>
                 <radius>7</radius>
+                <time>3:00</time>
                 <spawnprotect>true</spawnprotect>
                 <objective>Knock the enemy team off the platforms!</objective>
         </info>

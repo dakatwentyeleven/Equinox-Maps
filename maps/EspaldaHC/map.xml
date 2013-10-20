@@ -57,4 +57,8 @@
         <disabledamage>
                 <damage>fall</damage>
         </disabledamage>
+        <potions>
+                <potion>regeneration,500,10</potion>
+                <potion>health_boost,500,20</potion>
+        </potions>
 </map>

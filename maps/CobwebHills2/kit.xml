@@ -61,9 +61,9 @@
 	</item>
 	<item id="7">
 		<slot>2</slot>
-		<id>257</id>
+		<id>258</id>
 		<amount>1</amount>
-		<name>Iron Pickaxe</name>
+		<name>Diamond Pickaxe</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
 		<damage></damage>

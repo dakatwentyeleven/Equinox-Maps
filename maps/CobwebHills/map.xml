@@ -10,7 +10,7 @@
 		<build>true</build>
 		<radius>10</radius>
 		<spawnprotect>true</spawnprotect>
-		<objective>Eliminate all enemy players!</objective>
+		<objective>Eliminate all enemy players! You have one life!</objective>
 	</info>
 	<authors>
 		<author>TheMasterCow</author>

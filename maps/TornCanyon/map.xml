@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+        <info>
+                <title>Torn Canyon</title>
+                <version>1.0</version>
+                <teams>2</teams>
+                <type>dtm</type>
+                <world>TornCanyon</world>
+                <spec>1235,157,-302,90,0</spec>
+                <build>true</build>
+                <radius>7</radius>
+                <spawnprotect>true</spawnprotect>
+                <objective>Destroy all 3 enemy monuments!</objective>
+        </info>
+        <authors>
+                <author>eyce38</author>
+                <author>PhoenixMatt</author>
+                <author>TheMasterCow</author>
+                <author>bleangamer</author>
+        </authors>
+ 
+        <team id="1">
+                <name>Red Team</name>
+                <colour>Red</colour>
+                <spawn>1260,6,-257.31,180,0</spawn>
+                <radius>30</radius>
+        </team>
+ 
+        <team id="2">
+                <name>Blue Team</name>
+                <colour>Blue</colour>
+                <spawn>1210,6,-347,180,0</spawn>
+                <radius>30</radius>
+        </team>
+ 
+        <monument id="1">
+                <id>a</id>
+                <name>Right Monument</name>
+                <team>Blue</team>
+                <min>1162.0,112.0,-370.0</min>
+                <max>1162.0,111.0,-370.0</max>
+                <radius>0</radius>
+        </monument>
+ 
+        <monument id="2">
+                <id>b</id>
+                <name>Left Monument</name>
+                <team>Blue</team>
+                <min>1253.0,105.0,-373.0</min>
+                <max>1253.0,104.0,-373.0</max>
+                <radius>0</radius>
+        </monument>
+ 
+        <monument id="3">
+                <id>c</id>
+                <name>Center Monument</name>
+                <team>Blue</team>
+                <min>1217.0,69.0,-350.0</min>
+                <max>1217.0,68.0,-350.0</max>
+                <radius>0</radius>
+        </monument>
+ 
+        <monument id="4">
+                <id>d</id>
+                <name>Right Monument</name>
+                <team>Red</team>
+                <min>1308.0,112.0,-236.0</min>
+                <max>1308.0,111.0,-236.0</max>
+                <radius>0</radius>
+        </monument>
+ 
+        <monument id="5">
+                <id>e</id>
+                <name>Left Monument</name>
+                <team>Red</team>
+                <min>1217.0,105.0,-233.0</min>
+                <max>1217.0,104.0,-233.0</max>
+                <radius>0</radius>
+        </monument>
+ 
+        <monument id="6">
+                <id>f</id>
+                <name>Center Monument</name>
+                <team>Red</team>
+                <min>1253.0,69.0,-256.0</min>
+                <max>1253.0,68.0,-256.0</max>
+                <radius>0</radius>
+        </monument>
+ 
+        <region>
+                <teams>Red,Blue</teams>
+                <location1>-1238.0,162.0,-297.0</location1>
+                <location2>-1232.0,152.0,-297.0</location2>
+                <interact>false</interact>
+                <damage>false</damage>
+                <place>false</place>
+                <break>false</break>
+                <entry>false</entry>
+                <message>Please don't mess with the observer spawn.</message>
+        </region>
+        
+        <disabledamage>
+                <damage>fall</damage>
+        </disabledamage>
+</map>
